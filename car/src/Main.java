@@ -8,15 +8,18 @@ public class Main {
         arr[0].brand();
         arr[0].color();
         arr[0].fuel();
+        arr[0].wheel();
         System.out.println("");
 
         arr[1].brand();
         arr[1].color();
         arr[1].fuel();
+        arr[1].wheel();
         System.out.println("");
 
         arr[2].brand();
         arr[2].color();
         arr[2].fuel();
+        arr[2].wheel();
     }
 }
